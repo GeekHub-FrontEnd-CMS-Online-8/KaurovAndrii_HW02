@@ -1,0 +1,33 @@
+body {
+	font-size: 20px;
+	background-color: #F8F8DB;
+}
+
+.em{
+	font-style: italic;
+}
+
+.strong{
+	font-weight: bold;
+}
+
+.line{
+	text-decoration: underline;
+}
+
+.text{
+	text-align: center
+}
+
+#text{
+	text-align: right;
+}
+
+#leftfoto{
+	float: left;
+	margin: 3px 3px 5px 5px;
+}
+
+#fotocenter{
+	text-align: center;
+}
